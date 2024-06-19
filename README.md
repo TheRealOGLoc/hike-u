@@ -1,5 +1,9 @@
 # Hike-U
 
+<p align="center">
+<img src="/public/Hike-U.png"/>
+</p>
+
 Being avid hikers, we have created a comprehensive application for hike planning - Hike-U. It allows the user to plan their hike details including the route, dates and planned stops. While mapping out the trail, the app displays weather information, which can be useful for picking dates and equipment. User can create a list of all of their hiking equipment and use that list to create specific packing lists for every hike. After the hike, the user can create a journal entry where they can upload photos and record their memories of the trails.
 
 ## Features
